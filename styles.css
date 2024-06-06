@@ -9,6 +9,12 @@ body {
   height: 100%;
 }
 
+.root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+
 h1 {
   color: green;
   font-size: 30px;
